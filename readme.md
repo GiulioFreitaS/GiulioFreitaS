@@ -1,18 +1,38 @@
-<h1 align="center">Olá 👋 Me chamo Giulio Pimentel</h1>
-<h3 align="center">Sou estudante da ETEC ZONA LESTE e faço Desenvolvimento de Sistemas integrado a faculdade, aqui você ira ver toda a minha trajetória durante a minha carreira.</h3>
+<h2>👋 Hi! I'm Giulio Pimentel</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giuliofreitas&label=Profile%20views&color=0e75b6&style=flat" alt="giuliofreitas" /> </p>
-
-</a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  I'm a technical high school student in
+  <strong>Systems Development at ETEC Zona Leste (São Paulo, Brazil)</strong>,
+  focused on building a strong foundation in programming and software development.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f5886762-dd8a-4e86-88e6-c89fed8040c8" /> </a></p>
+<p>
+  In my first year of the course, I worked on an
+  <strong>event organization and management website</strong>,
+  developed as an academic project and
+  <strong>presented to IBM</strong>.
+  The project involved planning, development, and the final presentation of a
+  functional solution.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliofreitas&show_icons=true&locale=en&layout=compact" alt="giuliofreitas" /></p>
+<p>
+  Currently, I am improving my skills in
+  <strong>programming</strong>,
+  <strong>web development</strong>, and
+  <strong>software fundamentals</strong>,
+  with a growing interest in
+  <strong>artificial intelligence</strong>.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliofreitas&show_icons=true&locale=en" alt="giuliofreitas" /></p>
+<p>
+  🎯 <strong>Goal:</strong> Gain practical experience, continuously improve my
+  technical skills, and build a solid career in technology.
+</p>
+
+<hr>
+
+<h3>🛠 Languages & Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+</p>
