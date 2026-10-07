@@ -1,38 +1,41 @@
-<h2>👋 Hi! I'm Giulio Pimentel</h2>
+# 👋 Oi! Eu sou o Giulio Pimentel
 
-<p>
-  I'm a technical high school student in
-  <strong>Systems Development at ETEC Zona Leste (São Paulo, Brazil)</strong>,
-  focused on building a strong foundation in programming and software development.
-</p>
+**Estudante de Desenvolvimento de Sistemas na ETEC Zona Leste (São Paulo, Brasil)**
+Construindo uma base sólida em programação e com interesse crescente em **inteligência artificial**.
 
-<p>
-  In my first year of the course, I worked on an
-  <strong>event organization and management website</strong>,
-  developed as an academic project and
-  <strong>presented to IBM</strong>.
-  The project involved planning, development, and the final presentation of a
-  functional solution.
-</p>
+---
 
-<p>
-  Currently, I am improving my skills in
-  <strong>programming</strong>,
-  <strong>web development</strong>, and
-  <strong>software fundamentals</strong>,
-  with a growing interest in
-  <strong>artificial intelligence</strong>.
-</p>
+## 🚀 Destaque
 
-<p>
-  🎯 <strong>Goal:</strong> Gain practical experience, continuously improve my
-  technical skills, and build a solid career in technology.
-</p>
+**[Nome do projeto]** – plataforma web de organização e gestão de eventos, desenvolvida como projeto acadêmico e **apresentada à IBM**.
+Participei de todo o ciclo: planejamento, desenvolvimento e apresentação final de uma solução funcional.
+🔗 [Ver repositório](link) · [Ver demo](link)
 
-<hr>
+---
 
-<h3>🛠 Languages & Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
-</p>
+
+---
+
+## 🛠️ Tecnologias
+
+**Uso no dia a dia**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+**Estudando agora:** [ex.: React, SQL, fundamentos de IA]
+
+---
+
+## 🎯 Objetivo
+
+Ganhar experiência prática, evoluir constantemente e construir uma carreira sólida em tecnologia.
+Aberto a **estágio** e a colaborações em projetos.
+
+## 📫 Contato
+
+[LinkedIn](www.linkedin.com/in/giulio-pimentel)  · [E-mail](giulio.pfreitas@gmail.com)
