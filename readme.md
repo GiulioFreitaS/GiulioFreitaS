@@ -23,7 +23,7 @@
 - 🎓 Aluno do curso técnico de **Desenvolvimento de Sistemas** na ETEC Zona Leste (São Paulo, BR)
 - 🏆 Em 2026, minha equipe venceu o **desafio nacional da J.A Americas** com o **byTrust**, em parceria com o **Mercado Livre**
 - 🎤 No 1º ano, desenvolvi um projeto de **gestão de eventos** e **apresentei à IBM**
-- 🚀 No 2º ano, trabalho com **PHP, MySQL, Java e Bootstrap**
+- 🚀 No 2º ano, trabalho com **PHP, MySQL, Java e Bootstrap entre outros**
 - 🤖 Crescente interesse em **DevOps e Inteligencia Artificial**
 - 🎯 Meta: ganhar experiência prática e ficar magnata com DevOps B)
 
