@@ -24,8 +24,8 @@
 - 🏆 Em 2026, minha equipe venceu o **desafio nacional da J.A Americas** com o **byTrust**, em parceria com o **Mercado Livre**
 - 🎤 No 1º ano, desenvolvi um projeto de **gestão de eventos** e **apresentei à IBM**
 - 🚀 No 2º ano, trabalho com **PHP, MySQL, Java e Bootstrap**
-- 🤖 Crescente interesse em **inteligência artificial**
-- 🎯 Meta: ganhar experiência prática e construir uma carreira sólida em tecnologia
+- 🤖 Crescente interesse em **DevOps e Inteligencia Artificial**
+- 🎯 Meta: ganhar experiência prática e ficar magnata com DevOps B)
 
 ---
 
