@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8102e,100:0d1117&height=180&section=header&text=Giulio%20Pimentel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%C2%B7%20ETEC%20Zona%20Leste&descSize=16&descAlignY=60" alt="Banner" />
 
 <a href="https://github.com/GiulioFreitaS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C8102E&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Back-end+com+PHP+%2B+MySQL;Java+e+Orienta%C3%A7%C3%A3o+a+Objetos;Interesse+em+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C8102E&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aspirante+a+DevOps+%2B+MySQL;Java+e+Orienta%C3%A7%C3%A3o+a+Objetos;Interesse+em+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
 </a>
 
 <br><br>
