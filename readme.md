@@ -23,7 +23,7 @@
 - 🎓 Aluno do curso técnico de **Desenvolvimento de Sistemas** na ETEC Zona Leste (São Paulo, BR)
 - 🏆 Em 2026, minha equipe venceu o **desafio nacional da J.A Americas** com o **byTrust**, em parceria com o **Mercado Livre**
 - 🎤 No 1º ano, desenvolvi um projeto de **gestão de eventos** e **apresentei à IBM**
-- 🚀 No 2º ano, trabalho com **PHP, MySQL, Java e Bootstrap e outros**
+- 🚀 No 2º ano, trabalho com **PHP, MySQL, Java e Bootstrap**
 - 🤖 Crescente interesse em **inteligência artificial**
 - 🎯 Meta: ganhar experiência prática e construir uma carreira sólida em tecnologia
 
@@ -54,8 +54,7 @@
 | Projeto | O que faz | Tecnologias |
 |:--|:--|:--|
 | [**byTrust**](https://github.com/GiulioFreitaS/byTrust) 🏆 | Plataforma de verificação de autenticidade de produtos e combate à falsificação. **Vencedor nacional do desafio da J.A Americas** (2026), desenvolvido em equipe em parceria com o Mercado Livre. | `React` `TypeScript` `Node.js` `PostgreSQL` |
-| [**1DSAMS2025_IBM**](https://github.com/GiulioFreitaS/1DSAMS2025_IBM) | Eventos e atividades do projeto apresentado à IBM em 2025. | `HTML` `CSS` `JavaScript` |
-| [**EVENTIFY**](https://github.com/GiulioFreitaS/Empresa_EVENTIFY_gerenciamento_de_shows_e_eventos) | Gerenciamento de shows e eventos. | `HTML` `CSS` `JavaScript` |
+| [**EVENTIFY**](https://github.com/GiulioFreitaS/Empresa_EVENTIFY_gerenciamento_de_shows_e_eventos) | Plataforma de gerenciamento de shows e eventos. Projeto do 1º ano, **apresentado à IBM**. | `HTML` `CSS` `JavaScript` |
 | [**Etec_DS**](https://github.com/GiulioFreitaS/Etec_DS) | Todos os meus estudos do curso, organizados por ano e linguagem. | `Java` `PHP` `JavaScript` |
 
 ---
@@ -77,7 +76,7 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giulio-pimentel)
-[![E-mail](https://img.shields.io/badge/E--mail-c8102e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giudx1@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-c8102e?style=for-the-badge&logo=gmail&logoColor=white)](giudx1@gmail.com)
 
 <br>
 
