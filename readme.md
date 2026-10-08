@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/33167585/README.md)
+
 <div align="center">
 
-# giulio-pimentel
+# Giulio Pimentel de Freitas
 
 **Estudante de Desenvolvimento de Sistemas na ETEC Zona Leste (São Paulo, BR) · Construindo coisas e aprendendo IA**
 
